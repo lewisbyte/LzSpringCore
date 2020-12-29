@@ -8,5 +8,4 @@ package com.github.lewis.core.processor;
  */
 public class InjectObjProcessor {
 
-
 }
